@@ -1,3 +1,3 @@
 # Header 1
 
-Some text.
+Updated text.
