@@ -43,13 +43,13 @@ Week 1–2: Introduction and Setup
 - Review SSH authentication mechanisms and common attack patterns. 
 - Import sample SSH log files into Splunk. 
 
-Week 3–5: Identification of XSS Vulnerabilities 
+Week 3–5: SSH brute force detection
 
 - Identify failed and successful SSH login events. 
 - Write SPL queries to detect multiple failed attempts from the same IP. 
 - Analyze time-based patterns to identify brute force behavior. 
 
-Week 6–8: Complex Payload Testing 
+Week 6–8: Dashboard Development & Analysis
 
 - Create dashboards showing failed vs. successful login attempts, top source IP addresses, and attack activity over time. 
 - Refine queries for accuracy and performance. 
