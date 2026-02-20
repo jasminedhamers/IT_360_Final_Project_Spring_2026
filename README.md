@@ -21,6 +21,7 @@ At the end of this project, we will be able to:
 - Develop Splunk Processing Language (SPL) to identify failed login attempts and suspicious IP addresses. 
 - Develop Splunk dashboards to visualize the attack patterns. 
 - Develop basic alert rules for identifying brute force attacks.
+- Utilize Illinois State Generative AI Tool to automate the explanation of complex SPL query results and provide context-aware mitigation strategies.
 
 ### 3. Project Scope 
 
@@ -55,9 +56,10 @@ Week 6–8: Complex Payload Testing
 
 Week 9–12: Mitigation Techniques 
 
-- Configure Splunk alerts for excessive failed login attempts. 
+- Configure Splunk alerts for excessive failed login attempts.
+- Utilize Illinois State's Generative AI tool to perform contextual analysis on flagged IP addresses, correlating SSH attack patterns with known threat behaviors to generate an automated Risk Score for each incident.
 - Document detection thresholds and false positives. 
-- Research and discuss SSH hardening techniques. 
+- Research and discuss SSH hardening techniques.
 
 Week 13-14: Final Touches, Reporting & Reflection 
 
@@ -70,6 +72,7 @@ Week 13-14: Final Touches, Reporting & Reflection
 - SSH authentication log files (Linux) 
 - Illinois State University Proxmox Virtual machine (test environment) 
 - Documentation resources: Splunk SPL documentation, Linux SSH authentication documentation
+- Illinois State Generatie AI Tool
 
 ### 6. Expected Outcomes 
 - Gain practical experience using Splunk for security monitoring. 
