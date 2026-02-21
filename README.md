@@ -51,8 +51,8 @@ Week 3–5: SSH brute force detection
 
 Week 6–8: Dashboard Development & Analysis
 
-- Create dashboards showing failed vs. successful login attempts, top source IP addresses, and attack activity over time. 
-- Refine queries for accuracy and performance. 
+- Create dashboards visualizing failed login attempts, top source IP addresses, and attack activity over time to identify potential brute-force attacks.
+- Refine queries for accuracy and performance.
 
 Week 9–12: Mitigation Techniques 
 
