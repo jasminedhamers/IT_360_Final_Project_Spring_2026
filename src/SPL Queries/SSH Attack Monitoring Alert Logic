@@ -1,0 +1,6 @@
+source="ssh.log.gz" "failure"
+| rex field=_raw max_match=0 "(?<all_ips>\d+\.\d+\.\d+\.\d+)"
+| mvexpand all_ips
+| stats count by all_ips
+| where count > 10
+| sort -count
