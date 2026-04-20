@@ -1,0 +1,2 @@
+source="ssh.log.gz" "failure"
+| timechart span=1h count
