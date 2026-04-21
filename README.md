@@ -86,3 +86,12 @@ Week 13-14: Final Touches, Reporting & Reflection
 ### Conclusion: 
 
 The objective of this project is to gain hands-on experience in security monitoring using a SIEM solution, and it does so by specifically focusing on the detection of SSH brute force attacks. The skills gained in this project are relevant in a cybersecurity role. 
+
+## Repository Structure
+
+* **README.md**: Project documentation, setup guide, and video presentation link.
+* **.gitignore**: Specifies files for Git to ignore (e.g., .DS_Store).
+* **requirements.txt**: Lists required software (Splunk Enterprise 9.x).
+* **src/**: Contains all SPL query files used for the analysis.
+* **docs/**: Contains the Final Project Report and Project Proposal PDFs.
+* **data/**: Contains the `ssh.log.gz` sample evidence file.
