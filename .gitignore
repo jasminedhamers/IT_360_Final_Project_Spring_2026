@@ -1,0 +1,12 @@
+# Mac system files
+.DS_Store
+
+# Windows system files
+Thumbs.db
+
+# Splunk / Temp files
+*.log
+*.tmp
+
+# Large data files (if they are over 100MB)
+*.csv
