@@ -1,0 +1,9 @@
+# Software Requirements
+Splunk Enterprise 9.x or higher
+
+# Data Source
+SSH Logs (ssh.log.gz)
+
+# Environment
+Linux/Unix (for log generation source)
+macOS/Windows (for Splunk Web Interface)
